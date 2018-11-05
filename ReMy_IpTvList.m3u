@@ -7,8 +7,6 @@ http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:0,KANAL D
 http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:0,Star TV
-http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/star-tv.m3u8
 #EXTINF:0,Star TV HD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0,STAR TV
@@ -17,10 +15,6 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:0,TV8_hd
 https://streaming.kovalchuk.me/turk/tv8_hd/index.m3u8
-#EXTINF:0,Fil TV
-http://canli2.tvnet.tv.tr/live/smil:filtv.smil/playlist.m3u8
-#EXTINF:0,FIL TV
-http://canli2.tvnet.tv.tr/live/smil:filtv.smil/chunklist.m3u8
 #EXTINF:0,NAT GEOGRAPHIC TR
 http://s03.vidpanel.com/denizhaber/denizhaber.m3u8
 #EXTINF:0,teve2
@@ -99,7 +93,7 @@ http://85.132.71.6/turk/cnn/index.m3u8
 http://soledge7.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:0,CNN TURK
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,HABERTÜRK
+#EXTINF:0,HABERTÃœRK
 https://streaming.kovalchuk.me/turk/haber_turk/index.m3u8
 #EXTINF:0,Haber Turk
 http://85.132.71.6/turk/haber_turk/index.m3u8
@@ -137,9 +131,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:0,TRT Avaz
 http://cdn.pointgroup.az/1000010/h9Gpqjjn63/40ea326f6adafd72e2a81d86cadb81a3/trt-avaz.m3u8
-#EXTINF:0,TRT KURDÎ HD
+#EXTINF:0,TRT KURDÃŽ HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:0,TRT KURDÎ HD
+#EXTINF:0,TRT KURDÃŽ HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,IMEDI TV
 http://185.36.100.33/imedi/lq/tracks-v1a1/index.m3u8
@@ -155,13 +149,13 @@ http://217.174.225.146/legacyhls/ch001_400/index.m3u8
 http://217.174.225.146/legacyhls/ch002_400/index.m3u8
 #EXTINF:0,Miras TV
 http://217.174.225.146/legacyhls/ch003_400/index.m3u8
-#EXTINF:0,Türkmen Sport
+#EXTINF:0,TÃ¼rkmen Sport
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:0,Türkmen Avazi 
+#EXTINF:0,TÃ¼rkmen Avazi 
 http://217.174.225.146/legacyhls/ch005_400/index.m3u8
 #EXTINF:0,Asgabat TV
 http://217.174.225.146/legacyhls/ch006_400/index.m3u8
-#EXTINF:0,Türkmenistan TV
+#EXTINF:0,TÃ¼rkmenistan TV
 http://217.174.225.146/legacyhls/ch007_400/index.m3u8
 #EXTINF:0,ND TV
 http://bglive-a.bitgravity.com/ndtv/247hi/live/native
@@ -299,7 +293,7 @@ rtmp://178.22.187.253:1935/streaming-tv/mp4
 http://38.96.148.30:1935/live/omantv2/playlist.m3u8
 #EXTINF:0,Sevilla FC TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-#EXTINF:0,Sos Kanal TV (Servië)
+#EXTINF:0,Sos Kanal TV (ServiÃ«)
 http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
 #EXTINF:0,Tele Romagna SPORT
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
@@ -621,7 +615,7 @@ http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 http://130.185.144.110:8081/AR/CBCDRAMA/playlist.m3u8
 #EXTINF:0,CACAVISION
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
-#EXTINF:0,CANAL 13 ESPAÑA
+#EXTINF:0,CANAL 13 ESPAÃ‘A
 http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
 #EXTINF:0,CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
@@ -847,7 +841,7 @@ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
 #EXTINF:0,rbw
 http://62.113.210.250/medienasa-live/rbw_high/ReMy.m3u8
-#EXTINF:0,RCG Televisión LATINO
+#EXTINF:0,RCG TelevisiÃ³n LATINO
 http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
 #EXTINF:0,Rotana clip
 http://130.185.144.110:8081/AR/ROTANACLIP/playlist.m3u8
@@ -1805,7 +1799,7 @@ http://fenomenkarisik.listenfenomen.com/fenomenkarisik/128/icecast.audio
 http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio
 #EXTINF:0,FenomenTurk
 http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
-#EXTINF:0,Virgin Radio Türkiye
+#EXTINF:0,Virgin Radio TÃ¼rkiye
 http://17703.live.streamtheworld.com/VIRGIN_RADIO_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2
 #EXTINF:0,Radyo Voyage AAC
 http://46.20.4.42/pozitif/smil:voyage.smil/media_w1726134719_b128000_14039.aac
@@ -1861,7 +1855,7 @@ https://20043.live.streamtheworld.com/SC5_SO1128AAC.aac?tdsdk=js-2.9&pname=TDSdk
 https://17753.live.streamtheworld.com/ZEPLIN128AAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=b6332e30-5bc1-42c5-c92f-47858fefa5dc
 #EXTINF:0,Radyo 34
 http://yayin1.canliyayin.org:7424/;
-#EXTINF:0,Radyo Türkü-izmir
+#EXTINF:0,Radyo TÃ¼rkÃ¼-izmir
 http://radioturku.com:9400/;
 #EXTINF:0,Radyo Mydonose
 http://17753.live.streamtheworld.com:3690/RADIO_MYDONOSE_SC
